@@ -12,6 +12,7 @@ namespace TextLabelNUD
 {
     public partial class Form1 : Form
     {
+        // Волков Матвей
         public Form1()
         {
             InitializeComponent();
